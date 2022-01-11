@@ -1,4 +1,4 @@
-Demo: https://sample-form-validation.netlify.app
+Demo: https://form-validation-simply.netlify.app/
 
 Learning:
 Learn build form validation simple with javascript, html, and css.
